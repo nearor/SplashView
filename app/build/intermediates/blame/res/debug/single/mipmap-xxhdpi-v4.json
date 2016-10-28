@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/Nearor/work/Demo/SplashView/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/Nearor/work/Demo/SplashView/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/Nearor/work/Demo/LauncherView/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/slogan.png",
         "source": "/Users/Nearor/work/Demo/LauncherView/app/src/main/res/mipmap-xxhdpi/slogan.png"
+    },
+    {
+        "merged": "/Users/Nearor/work/Demo/SplashView/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/slogan.png",
+        "source": "/Users/Nearor/work/Demo/SplashView/app/src/main/res/mipmap-xxhdpi/slogan.png"
     },
     {
         "merged": "/Users/Nearor/work/Demo/LauncherView/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
